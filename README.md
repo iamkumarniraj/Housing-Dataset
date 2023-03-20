@@ -29,6 +29,7 @@ Data Preparation, Cleaning and Exploratory Data Analysis : To get the data ready
 
 In order to increase the precision of the machine learning models, this component, known as feature engineering, develops new features based on the existing features. Steps including adding additional variables, scaling and normalizing data, and handling outliers are covered in this section.
 
-Many machine learning models are trained on the data in this part, and their performance is assessed using a variety of measures, including mean squared error, mean absolute error, and R-squared. Models including linear regression, Lasso, Ridge, random forest regression, SVR, and XGBoost regression are included in this section.
+Many machine learning models are trained on the data in this part, and their performance is assessed using a variety of measures, including mean squared error, mean absolute error, and R-squared. Models including linear regression, Lasso, Ridge, random forest regression and SVR regression are included in this section.
 
-Conclusion: Based on the analysis and model results, this part enumerates the conclusions and suggestions.
+Conclusion: Based on the analysis and model results, this part enumerates the conclusions.
+

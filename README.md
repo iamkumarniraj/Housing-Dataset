@@ -13,10 +13,10 @@ The Bengaluru Home Pricing dataset, which includes information on more than 13,0
 Installation 
 
 You must have Python 3 and a number of Python libraries installed on your system in order to execute the project. The Python package installer pip may be used to install these libraries. These are the necessary libraries:
-numpy
-pandas
-scikit-learn
-matplotlib
+#numpy
+#pandas
+#scikit-learn
+#matplotlib
 seaborn
 
 Usage
